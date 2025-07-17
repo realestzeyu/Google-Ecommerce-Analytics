@@ -11,7 +11,7 @@ This project rigorously examines whether paid advertising **causes** higher conv
 ## 📂 Dataset Overview  
 **Google Merchandise Store (GMS)** Analytics  
 
-🔗 [Google Analytics BigQuery Public Dataset](https://developers.google.com/analytics/bigquery/web-ecommerce-demo-dataset)
+🔗 [Google Analytics BigQuery Public Dataset](https://support.google.com/analytics/answer/7586738#where-the-data-comes-from&zippy=%2Cin-this-article)
 
 The `ga4_obfuscated_sample_ecommerce` dataset (available via BigQuery Public Datasets) contains:
 - **Sample period**: 2020-11-01 to 2021-01-31 (3 months)  
