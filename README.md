@@ -46,7 +46,7 @@ It includes:
 
 ## ❓ Research Question  
 
-> **Does paid advertising drive significantly higher conversion rates compared to organic visits?**
+> **Does paid advertising drive higher conversion rates compared to organic visits?**
 
 This study explores:
 - ✅ Whether paid traffic (e.g., CPC/CPM) converts better than organic
