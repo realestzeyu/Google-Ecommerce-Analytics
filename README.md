@@ -6,6 +6,22 @@
 While widely cited, this principle is often overlooked in business analytics.  
 This project rigorously examines whether paid advertising **causes** higher conversions compared to organic traffic.
 
+> **Naivety of A/B Testing**
+
+While randomised controlled trials such as A/B tests remain the gold standard for causal inference, real-world constraints often make them impractical:
+
+1. **Limitations of Randomisation**  
+   In practice, treatments and control groups are rarely truly randomised. It is often extremely difficult to achieve perfect random sampling irl.
+
+2. **Cost of Experimentation**  
+   It is usually more practical to work with existing observational datasets rather than running an entirely new experiment or campaign.  
+   *Example:* Instead of testing an advertising campaign on different randomised groups, you might simply run the campaign for everyone.
+
+3. **Ethical Concerns**  
+   Some experiments raise ethical issues or are wholly unacceptable to conduct, particularly when the treatment could potentially harm individuals or groups.
+
+Thus, this project will take a more practical approach by using **general observational data**.
+
 ---
 
 ## 📂 Dataset Overview  
